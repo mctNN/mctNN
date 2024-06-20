@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm MustafaCem</h1>
 <h3 align="center">A Web Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React - Native**
 
-- 📫 How to reach me **mustafa@starkbilisim.com**
+- 📫 How to reach me **mustafa@starkbilisim.com** or **cemtaskin36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
